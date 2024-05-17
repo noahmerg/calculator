@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Taschenrechner</string>
+    <string name="taschenrechner">Taschenrechner</string>
+    <string name="calculatorlogo">calculatorLogo</string>
+    <string name="delete">C</string>
+    <string name="plusminus">+/-</string>
+    <string name="brace">( )</string>
+    <string name="divide">÷</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="times">×</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="plus">+</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="minus">-</string>
+    <string name="zero">0</string>
+    <string name="comma">,</string>
+    <string name="equal">=</string>
+    <string name="history">history</string>
+    <string name="percent">%</string>
+    <string name="unit">unit</string>
+    <string name="scientific">scientific</string>
+    <string name="backspace">backspace</string>
+    <!-- land stuff-->
+    <string name="e_power_x">e<sup><small>x</small></sup></string>
+    <string name="x_power_2">x<sup><small>2</small></sup></string>
+    <string name="x_power_y">x<sup><small>y</small></sup></string>
+    <string name="left_right_arrow">⇄</string>
+    <string name="rad">Rad</string>
+    <string name="sqrt">√</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="ln">ln</string>
+    <string name="mult_inverse">1/x</string>
+    <string name="log">log</string>
+    <string name="abs">|x|</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+</resources>

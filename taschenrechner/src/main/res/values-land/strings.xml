@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="e_power_x">e<sup><small>x</small></sup></string>
+    <string name="x_power_2">x<sup><small>2</small></sup></string>
+    <string name="x_power_y">x<sup><small>y</small></sup></string>
+    <string name="left_right_arrow">⇄</string>
+    <string name="rad">Rad</string>
+    <string name="sqrt">√</string>
+    <string name="sin">sin</string>
+    <string name="cos">cos</string>
+    <string name="tan">tan</string>
+    <string name="ln">ln</string>
+    <string name="mult_inverse">1/x</string>
+    <string name="log">log</string>
+    <string name="pi">π</string>
+    <string name="e">e</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_switch_scientific_side" type="id" />
+    <item name="button_switch_rad_deg" type="id" />
+    <item name="button_sqrt" type="id" />
+    <item name="button_sin" type="id" />
+    <item name="button_cos" type="id" />
+    <item name="button_tan" type="id" />
+    <item name="button_ln" type="id" />
+    <item name="button_log" type="id" />
+    <item name="button_mult_inverse" type="id" />
+    <item name="button_x_power_y" type="id" />
+    <item name="button_x_power_2" type="id" />
+    <item name="button_e_power_x" type="id" />
+    <item name="button_abs" type="id" />
+    <item name="button_pi" type="id" />
+    <item name="button_e" type="id" />
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="basicButtonStyle" parent="Widget.Material3.Button.ElevatedButton">
+        <item name="android:layout_height">0dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:padding">0dp</item>
+    </style>
+    <style name="calc_button_number" parent="basicButtonStyle">
+        <item name="android:textColor">#8989ff</item>
+    </style>
+    <style name="calc_button_sign" parent="basicButtonStyle">
+        <item name="android:textColor">#91fff4</item>
+        <item name="android:backgroundTint">#363666 </item>
+    </style>
+    <style name="calc_button_enter" parent="basicButtonStyle">
+        <item name="android:textColor">#1f1f1f</item>
+        <item name="android:backgroundTint">#E0FF4F</item>
+    </style>
+    <style name="calc_button_clear" parent="basicButtonStyle">
+        <item name="android:textColor">#E0FF4F</item>
+        <item name="android:backgroundTint">#363666</item>
+    </style>
+    <style name="calc_button_tools" parent="Widget.Material3.Button.IconButton.Filled">
+        <item name="android:background">?android:attr/actionBarItemBackground</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <!--hide the text just for safety reasons-->
+        <item name="android:textColor">@android:color/transparent</item>
+    </style>
+</resources>
